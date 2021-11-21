@@ -21,10 +21,10 @@
 ?>
 <?php
 // Path Settings
-$web_root = '/dm'; // don't include trailing slash (if you're installing in the root just leave this blank)
+$web_root = ''; // don't include trailing slash (if you're installing in the root just leave this blank)
 
 // Database Settings
 $dbhostname = 'localhost';
-$dbname = 'db_name';
-$dbusername = 'db_username';
-$dbpassword = 'dbPassword123';
+$dbname = 'dona_dm';
+$dbusername = 'dona_jz';
+$dbpassword = '9JfEyy1nC8H#-@6y';
